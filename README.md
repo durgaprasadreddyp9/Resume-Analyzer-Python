@@ -1,1 +1,1 @@
-# ResumeAnalyzer-Python-Project
+# ResumeAnalyzer-PythonProject
